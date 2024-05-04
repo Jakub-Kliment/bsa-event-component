@@ -5,15 +5,19 @@ const events = [
   {
     imageUrl:
       "https://images.pexels.com/photos/1064162/pexels-photo-1064162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    date: "Friday 9:00 am - 9:00 am PDT",
     title: "Event 1",
-    date: "May 10, 2024",
+    month: "MAY",
+    day: "12",
     place: "Lausanne",
     description: "Description of Event 1...",
   },
   {
     imageURL: "",
+    date: "Friday 9:00 am - 9:00 am PDT",
     title: "Event 2",
-    date: "June 15, 2024",
+    month: "JUN",
+    day: "15",
     place: "Lausanne",
     description: "Description of Event 2...",
   },
